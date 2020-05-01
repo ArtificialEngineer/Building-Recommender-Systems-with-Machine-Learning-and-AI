@@ -1,7 +1,9 @@
 # Building-Recommender-Systems-with-Machine-Learning-and-AI
 # https://www.udemy.com/course/building-recommender-systems-with-machine-learning-and-ai/
 
-over nine years at Amazon, where he managed and led the development of many of Amazon's personalized product recommendation technologies.
+Created by Sundog Education by Frank Kane, Frank Kane
+
+Over nine years at Amazon, where he managed and led the development of many of Amazon's personalized product recommendation technologies.
 
 You've seen automated recommendations everywhere - on Netflix's home page, on YouTube, and on Amazon as these machine learning algorithms learn about your unique interests, and show the best products or content for you as an individual. These technologies have become central to the  largest, most prestigious tech employers out there, and by understanding how they work, you'll become very valuable to them.
 
